@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab6</name>
+    </assembly>
+    <members>
+        <member name="M:Lab6.Controllers.StudentsController.Get">
+            <summary>
+            Get collection of Students.
+            </summary>
+            <returns>A collection of Students</returns>
+            <response code="200">Returns a collection of Students</response>
+            <response code="500">Internal error</response>      
+        </member>
+    </members>
+</doc>
